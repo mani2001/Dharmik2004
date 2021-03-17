@@ -3,11 +3,11 @@ Dharmik2004/Dharmik2004 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes. I love this default comments. So I don't remove this.
 --->
 
-### Hi everyone! I’m @Dharmik2004&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
+### Hi everyone! I’m @Dharmik2004&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 
 I code for FUN in any language including   
-| Python | Ruby | PHP |
- | :---: | :---: | :---: |
+| Python | Javascript | C | Ruby | PHP |
+ | :---: | :---: | :---: | :---: | :---: |
  
 
 ### Technologies & Frameworks I have worked with : 
@@ -36,15 +36,17 @@ I code for FUN in any language including
 
 
 
-
+- 💻 Self Taught.
 - 💬 Ask me about anything, I am happy to help anytime!
 - 👀 I'm interested in building new things, deploying them and forget about it.
 - 💞️ Collaborate with me on my Octoman Portal
 - 📫 You can reach me by messaging me on my twitter.
 <br>
 <br>
+
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height=22px>Currently learning Javascript.
+
 <a href=https://github.com/Dharmik2004/octomon.github.io>
-   <img src=https://img.shields.io/badge/Octomon%20%7C%20Web%20Portal-Developer-red>
+   <img src=https://img.shields.io/badge/Octomon%20%7C%20Web%20Portal-Developer-red class="center">
 </a>
-
-
