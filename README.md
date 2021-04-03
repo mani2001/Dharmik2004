@@ -45,7 +45,7 @@ I code for FUN in any language including
 <br>
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height=22px>Currently learning Javascript.
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height=22px>
 
 <a href=https://github.com/Dharmik2004/octomon.github.io>
    <img src=https://img.shields.io/badge/Octomon%20%7C%20Web%20Portal-Developer-red class="center">
