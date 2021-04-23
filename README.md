@@ -4,10 +4,10 @@ You can click the Preview link to take a look at your changes. I love this defau
 --->
 ### Hi everyone! I’m @Dharmik2004&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 
-- 💻 Self Taught.
+- 💻 Self taught programmer.
 - 💬 Ask me about anything, I am happy to help anytime!
 - 👀 I'm interested in building new things.
-- 📫 You can reach me by messaging me on my twitter.
+- 📫 You can reach me by messaging me on my twitter. I am free enough to talk with you.
 <br>
 <br>
 
@@ -25,13 +25,10 @@ You can click the Preview link to take a look at your changes. I love this defau
 <a href="https://www.linkedin.com/in/dharmik-parmar-773098200/">
     <img align="left" alt="Dharmik Parmar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  &nbsp; &nbsp;
+  &nbsp; &nbsp
    <a href="https://twitter.com/itsdharmik">
     <img align="left" alt="Dharmik Parmar | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
-
-<br>
-<br>
 
 
 
