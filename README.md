@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes. I love this defau
 <br>
 
 ### Technologies and Frameworks I've worked with  
-| <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=html5&logoColor=white"> <img alt="HTML5"> | <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" > | 
+| <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=html5&logoColor=white"> | <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" > | 
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=white" > | <img src ="https://img.shields.io/badge/Php-800080?style=for-the-badge&logo=php&logoColor=white" > | <img src ="https://img.shields.io/badge/Ruby-DC143C?style=for-the-badge&logo=ruby&logoColor=white" >
 | <img src="https://img.shields.io/badge/Django-006400?style=for-the-badge&logo=django&logoColor=white" > | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" > | <img src="https://img.shields.io/badge/vue-228B22?style=for-the-badge&logo=vue.js&logoColor=white" > |
