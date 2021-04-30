@@ -19,6 +19,9 @@ You can click the Preview link to take a look at your changes. I love this defau
 | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" > | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" > | <img src="https://img.shields.io/badge/Node.js-32CD32?style=for-the-badge&logo=node.js&logoColor=white" >
 | <img src="https://img.shields.io/badge/Wix-87CEEB?style=for-the-badge&logo=Wix&logoColor=white" > | <img src="https://img.shields.io/badge/Wordpress-301934?style=for-the-badge&logo=wordpress&logoColor=white" > | <img src="https://img.shields.io/badge/CANVA-006994?style=for-the-badge&logo=canva&logoColor=white" >
 
+
+[comment]: <> (Remove NODE PHP VUE CAUSE I JUST KNOW BASICS ABOUT THEM AND ANYONE WILL ASK ME FOR HELP.)
+
 ### Connect with me here:  
 
 
