@@ -5,9 +5,10 @@ You can click the Preview link to take a look at your changes. I love this defau
 ### Hi everyone! I’m @Dharmik2004&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 
 - 💻 Self taught programmer.
-- 💬 Ask me about anything, I am happy to help anytime!
-- 👀 I'm interested in building new things.
-- 📫 You can reach me by messaging me on my twitter. I am free enough to talk with you.
+- 📫 Ask me about anything, I am happy to help anytime!
+- 👀 I'm interested in building new things.📰
+- 💬 You can DM me on twitter.
+- 📰 You can know more about me <a href="polywork.com/itsdharmik" target="_blank">here</a>.
 <br>
 <br>
 
