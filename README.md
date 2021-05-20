@@ -19,8 +19,10 @@ You can click the Preview link to take a look at your changes. I love this defau
 | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" > | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" > | <img src="https://img.shields.io/badge/CANVA-006994?style=for-the-badge&logo=canva&logoColor=white" > |
 | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" > | <img src="https://img.shields.io/badge/Wix-87CEEB?style=for-the-badge&logo=Wix&logoColor=white" > |  <img src="https://img.shields.io/badge/Wordpress-301934?style=for-the-badge&logo=wordpress&logoColor=white" > | 
 
+<br>
+<br>
 
-
+<img align="" src="https://github-readme-stats.vercel.app/api?username=Dharmik2004&hide=stars&theme=bear&count_private=true" alt="Dharmik2004" />
 <br>
 <br>
 
