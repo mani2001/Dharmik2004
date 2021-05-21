@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes. I love this defau
 
 <br>
 <br>
-
 <img align="" src="https://github-readme-stats.vercel.app/api?username=Dharmik2004&hide=stars&theme=bear&count_private=true" alt="Dharmik2004" />
 <br>
 <br>
