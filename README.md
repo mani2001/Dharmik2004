@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes. I love this defau
 
 - 💻 Self taught programmer.
 - 📫 Ask me about anything, I am happy to help anytime!
-- 👀 I'm interested in building new things.📰
+- 👀 I'm interested in building new things.
 - 💬 You can DM me on twitter.
 - 📰 You can know more about me <a href="polywork.com/itsdharmik" target="_blank">here</a>.
 <br>
