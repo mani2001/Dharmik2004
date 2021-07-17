@@ -38,7 +38,4 @@ I love this default comments. So I don't remove this.
     <img align="left" alt="Dharmik Parmar | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
-
-
-
-
+<!--- Later, add the god damn more cute than your crush, portfolio site here. --->  
