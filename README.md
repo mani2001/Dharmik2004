@@ -1,15 +1,17 @@
 <!---
 Dharmik2004/Dharmik2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. I love this default comments. So I don't remove this.
+You can click the Preview link to take a look at your changes. 
+
+I love this default comments. So I don't remove this.
 --->
+
 ### Hi everyone! I’m @Dharmik2004&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 
-- 💻 Self taught programmer.
-- 📫 Ask me about anything, I am happy to help anytime!
-- 👀 I'm interested in building new things.
-- 💬 You can DM me on twitter.
 
-<br>
+- 💻 Currently learning Rust & mastering Python. 
+- 👀 Highly interested in building new stuff.
+- 💬 Reach out to me on twitter <a link href=https://www.twitter.com/itsdharmik>@itsdharmik.</a>
+- ⚡️ Fun fact: I'm a Harry Potter fan.
 <br>
 
 ### Technologies and Frameworks I've worked with  
@@ -17,7 +19,7 @@ You can click the Preview link to take a look at your changes. I love this defau
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=white" > | <img src="https://img.shields.io/badge/Django-006400?style=for-the-badge&logo=django&logoColor=white" > | <img src ="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=PHP&logoColor=white" >
 | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" > | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" > | <img src="https://img.shields.io/badge/FIGMA-800080?style=for-the-badge&logo=figma&logoColor=white" > |
-| <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" > | <img src="https://img.shields.io/badge/Wix-87CEEB?style=for-the-badge&logo=Wix&logoColor=white" > |  <img src="https://img.shields.io/badge/Wordpress-301934?style=for-the-badge&logo=wordpress&logoColor=white" > | 
+| <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" > | <img src="https://img.shields.io/badge/Wix-87CEEB?style=for-the-badge&logo=Wix&logoColor=white" > |  <img src="https://img.shields.io/badge/Wordpress-301934?style=for-the-badge&logo=wordpress&logoColor=white" > |
 <br>
 <br>
 <img align="" src="https://github-readme-stats.vercel.app/api?username=Dharmik2004&hide=stars&theme=bear&count_private=true" alt="Dharmik2004's github Stats" />
