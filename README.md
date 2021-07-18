@@ -10,8 +10,9 @@ I love this default comments. So I don't remove this.
 
 - 💻 Currently learning Rust & mastering Python. 
 - 👀 Highly interested in building new stuff.
-- 💬 Reach out to me on twitter <a link href=https://www.twitter.com/itsdharmik>@itsdharmik.</a>
+- 💬 Visit me <a link href="https://itsdharmik.netlify.app" target="_blank">here</a>.
 - ⚡️ Fun fact: I'm a Harry Potter fan.
+
 <br>
 
 ### Technologies and Frameworks I've worked with  
@@ -26,16 +27,3 @@ I love this default comments. So I don't remove this.
 <br>
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharmik2004&show_icons=true&locale=en&layout=compact&theme=bear" alt="Dharmik2004's github top languages" />
 <br>
-
-### Connect with me here:  
-
-
-<a href="https://www.linkedin.com/in/dharmik-parmar-773098200/">
-    <img align="left" alt="Dharmik Parmar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  &nbsp; &nbsp
-   <a href="https://twitter.com/itsdharmik">
-    <img align="left" alt="Dharmik Parmar | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a> 
-
-<!--- Later, add the god damn more cute than your crush, portfolio site here. --->  
