@@ -2,7 +2,7 @@
 Dharmik2004/Dharmik2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
 
-I love this default comments. So I don't remove this.
+I love this default comments. So I don't remove this. 
 --->
 
 ### Hi everyone! I’m @Dharmik2004&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
