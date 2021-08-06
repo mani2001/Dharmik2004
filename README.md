@@ -25,5 +25,5 @@ I love this default comments. So I don't remove this.
 <br>
 <img align="" src="https://github-readme-stats.vercel.app/api?username=Dharmik2004&hide=stars&theme=bear&count_private=true" alt="Dharmik2004's github Stats" />
 <br>
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharmik2004&show_icons=true&locale=en&layout=compact&theme=bear" alt="Dharmik2004's github top languages" />
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharmik2004&show_icons=true&locale=en&layout=compact&theme=bear&langs_count=8" alt="Dharmik2004's github top languages" />
 <br>
